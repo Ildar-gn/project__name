@@ -1,2 +1,2 @@
-# project Name
+# Project Name
 Description
